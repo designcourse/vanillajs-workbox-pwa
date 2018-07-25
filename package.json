@@ -1,0 +1,12 @@
+{
+  "name": "userspwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server -p 1335 build -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,23 @@
+body {
+    font-family: 'Montserrat';
+    background: #eeeeee;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background: #fff;
+    padding: 1em;
+    box-shadow: 1px 1px rgba(0,0,0,.1);
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+li span {
+    display: block;
+    font-weight: normal;
+    font-size: .8em;
+}

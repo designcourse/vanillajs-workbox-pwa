@@ -17,8 +17,8 @@ fetch('https://jsonplaceholder.typicode.com/users')
             let li = createNode('li')
                 span = createNode('span');
 
-            li.innerHTML = person.name;
-            span.innerHTML = person.email;
+            li.textContet = person.name;
+            span.textContet = person.email;
 
             append(li, span);
             append(ul, li);
